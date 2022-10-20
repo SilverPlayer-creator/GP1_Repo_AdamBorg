@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/UI.unity
+    guid: 51536ed7d76245248a4fd58709f930b8
+  - enabled: 1
+    path: Assets/Main_level.unity
+    guid: 688ab1e37d6fa864f9e8a02028c633d1
+  - enabled: 1
+    path: Assets/Scenes/ScoreScreen.unity
+    guid: 8a3df3f0f2723dc4c8bd5617f244b727
+  m_configObjects:
+    com.unity.input.settings: {fileID: 11400000, guid: 9e7be553448fa2546aea5752021cbcf7,
+      type: 2}

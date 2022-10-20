@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 4ba985cabed1751428581231b0a2ac99
+ScriptedImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 2
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+  script: {fileID: 11500000, guid: dda12f74ff9116a42b23482252b2c482, type: 3}
+  _instancesCopy:
+  - {fileID: 11400000, guid: 274d7b3994a1b3f49b70ffb868dc9474, type: 2}
+  _fileAsset: {instanceID: 0}
+  _assetPath: Assets/Adobe/stylized_spanish_plaster.sbsar

@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 674d4caf8ac93f943a95f8b41d9d0b4e
+ScriptedImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 2
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+  script: {fileID: 11500000, guid: dda12f74ff9116a42b23482252b2c482, type: 3}
+  _instancesCopy:
+  - {fileID: 11400000, guid: 362bfaa05af49e848ab9de36eff74904, type: 2}
+  _fileAsset: {instanceID: 0}
+  _assetPath: Assets/Adobe/toughened_glass.sbsar

@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: d9c901b4a34bf9446a76275b8ca4e214
+ScriptedImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 2
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+  script: {fileID: 11500000, guid: dda12f74ff9116a42b23482252b2c482, type: 3}
+  _instancesCopy:
+  - {fileID: 11400000, guid: b4dbeaa303b8bad43a3afd00e1cc75fc, type: 2}
+  _fileAsset: {instanceID: 0}
+  _assetPath: Assets/Resources/Materials/stylized_oxidized_bronze.sbsar

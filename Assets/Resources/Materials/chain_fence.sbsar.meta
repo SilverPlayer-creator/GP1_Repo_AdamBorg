@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 3028eb9d875317d43aa61e17fd9f0417
+ScriptedImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 2
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+  script: {fileID: 11500000, guid: dda12f74ff9116a42b23482252b2c482, type: 3}
+  _instancesCopy:
+  - {fileID: 11400000, guid: cca22b073abf15046b6dade8d4faf12c, type: 2}
+  _fileAsset: {instanceID: 0}
+  _assetPath: Assets/Adobe/chain_fence.sbsar

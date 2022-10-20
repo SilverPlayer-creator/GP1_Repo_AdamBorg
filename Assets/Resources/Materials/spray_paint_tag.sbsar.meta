@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 01002e62827494144962bfc781b55346
+ScriptedImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 2
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+  script: {fileID: 11500000, guid: dda12f74ff9116a42b23482252b2c482, type: 3}
+  _instancesCopy:
+  - {fileID: 11400000, guid: c22e26a135a8b404e9d7f03dbff43786, type: 2}
+  _fileAsset: {instanceID: 0}
+  _assetPath: Assets/Resources/Materials/spray_paint_tag.sbsar

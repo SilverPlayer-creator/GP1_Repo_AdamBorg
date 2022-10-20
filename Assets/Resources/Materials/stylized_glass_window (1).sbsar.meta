@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: c6beb13661f8cfb48bb6ed7985ca33e9
+ScriptedImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 2
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+  script: {fileID: 11500000, guid: dda12f74ff9116a42b23482252b2c482, type: 3}
+  _instancesCopy:
+  - {fileID: 11400000, guid: dcbe4af22cb43ce44935c8ae828f01c4, type: 2}
+  _fileAsset: {instanceID: 0}
+  _assetPath: Assets/Adobe/stylized_glass_window (1).sbsar

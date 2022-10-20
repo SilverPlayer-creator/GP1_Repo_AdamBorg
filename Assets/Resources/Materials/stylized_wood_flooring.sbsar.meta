@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 220976b98f46ccc4c90a99df9b4cf9ef
+ScriptedImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 2
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+  script: {fileID: 11500000, guid: dda12f74ff9116a42b23482252b2c482, type: 3}
+  _instancesCopy:
+  - {fileID: 11400000, guid: 0f215a479a0eaff43aa18cf3b1ab7340, type: 2}
+  _fileAsset: {instanceID: 0}
+  _assetPath: Assets/Adobe/stylized_wood_flooring.sbsar

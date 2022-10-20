@@ -1,0 +1,4 @@
+P4CLIENT=<Perforce Client Name ex:ALEX_SYSTEM_SW_DEV_GIT>
+P4USER=<Perforce ID ex:alex.jang>
+P4PORT=<Perfoce IP/Port ex:165.213.202.46:1716>
+P4PASSWD=<자신의 Perforce Password>

@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 50c2c042b97a9414e8307d1b4c5b38a6
+ScriptedImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 2
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+  script: {fileID: 11500000, guid: dda12f74ff9116a42b23482252b2c482, type: 3}
+  _instancesCopy:
+  - {fileID: 11400000, guid: 4680b0a31b264084e923aa0182daa70e, type: 2}
+  _fileAsset: {instanceID: 0}
+  _assetPath: Assets/Adobe/stylized_mossy_brick_wall.sbsar

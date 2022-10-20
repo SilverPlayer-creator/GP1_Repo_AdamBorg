@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 47066795ed136d545b3f60932bccf520
+ScriptedImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 2
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+  script: {fileID: 11500000, guid: dda12f74ff9116a42b23482252b2c482, type: 3}
+  _instancesCopy:
+  - {fileID: 11400000, guid: 4e08b49936d40cc4d815851609f1c757, type: 2}
+  _fileAsset: {instanceID: 0}
+  _assetPath: Assets/Adobe/damaged_double_dotted_line_road_marking.sbsar

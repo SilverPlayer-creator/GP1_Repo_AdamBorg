@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 58c79f5bfc39c444c972b7f870282ab9
+ScriptedImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 2
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+  script: {fileID: 11500000, guid: dda12f74ff9116a42b23482252b2c482, type: 3}
+  _instancesCopy:
+  - {fileID: 11400000, guid: 706477f6c06e62d44b8496b3ee184c47, type: 2}
+  _fileAsset: {instanceID: 0}
+  _assetPath: Assets/Adobe/asphalt_rough.sbsar

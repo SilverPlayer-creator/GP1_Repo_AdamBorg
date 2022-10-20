@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 719bf82460f2dfb449e8b12aaa80c41c
+ScriptedImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 2
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+  script: {fileID: 11500000, guid: dda12f74ff9116a42b23482252b2c482, type: 3}
+  _instancesCopy:
+  - {fileID: 11400000, guid: ff4f08409e333d4468d9b4fc1403fbad, type: 2}
+  _fileAsset: {instanceID: 0}
+  _assetPath: Assets/Resources/Materials/damaged_cross_walk_marking.sbsar

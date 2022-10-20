@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 23b10fb7ed3077147824c7f274bc8d7d
+ScriptedImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 2
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+  script: {fileID: 11500000, guid: dda12f74ff9116a42b23482252b2c482, type: 3}
+  _instancesCopy:
+  - {fileID: 11400000, guid: e6e007317a88b1d4480035bd7ed33614, type: 2}
+  _fileAsset: {instanceID: 0}
+  _assetPath: Assets/Resources/Materials/stylized_dirty_brick_chimney.sbsar

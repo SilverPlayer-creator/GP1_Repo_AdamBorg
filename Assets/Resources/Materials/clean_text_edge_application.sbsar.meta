@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 651561f648ef535408367284780fc00c
+ScriptedImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 2
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+  script: {fileID: 11500000, guid: dda12f74ff9116a42b23482252b2c482, type: 3}
+  _instancesCopy:
+  - {fileID: 11400000, guid: 16905e97ff7f698488c152e20a1d265e, type: 2}
+  _fileAsset: {instanceID: 0}
+  _assetPath: Assets/Resources/Materials/clean_text_edge_application.sbsar

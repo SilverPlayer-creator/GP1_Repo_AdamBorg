@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 2f73ce6423bccea4c9fa0b7ac17b2c84
+ScriptedImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 2
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+  script: {fileID: 11500000, guid: dda12f74ff9116a42b23482252b2c482, type: 3}
+  _instancesCopy:
+  - {fileID: 11400000, guid: ebd6bfb903ceb0940abaee39268bc8b1, type: 2}
+  _fileAsset: {instanceID: 0}
+  _assetPath: Assets/Resources/Materials/stripes_concrete_painted.sbsar

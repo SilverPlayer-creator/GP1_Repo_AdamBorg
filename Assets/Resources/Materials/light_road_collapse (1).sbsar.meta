@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 71731e3979f7cef479ea35a06f2abddc
+ScriptedImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 2
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+  script: {fileID: 11500000, guid: dda12f74ff9116a42b23482252b2c482, type: 3}
+  _instancesCopy:
+  - {fileID: 11400000, guid: 13d0069a24d698c4ea1c6e0f3613f795, type: 2}
+  _fileAsset: {instanceID: 0}
+  _assetPath: Assets/Resources/Materials/light_road_collapse (1).sbsar
